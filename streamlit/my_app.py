@@ -5,7 +5,7 @@ import numpy as np
 # Membaca dataset dari file CSV
 import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-df = pd.read_csv(os.path.join(BASE_DIR, 'Dataset_Stres - dataset.csv'))
+df = pd.read_csv(os.path.join(BASE_DIR, 'dataset_stres.csv'))
 
 # Hapus kolom Deskripsi Gejala
 df.drop('Deskripsi Gejala', axis=1, inplace=True)
