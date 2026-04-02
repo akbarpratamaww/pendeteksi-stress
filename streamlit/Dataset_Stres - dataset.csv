@@ -1,0 +1,31 @@
+Kode Gejala,Deskripsi Gejala,Nilai Gejala Ringan (T1),Nilai Gejala Sedang (T2),Nilai Gejala Berat (T3)
+G1,Sakit pinggang,0.1,0.1,0.1
+G2,Sesak nafas,0.1,0.1,0.5
+G3,Gangguan pencernaan berat,0.1,0.1,0.5
+G4,Keringat berlebihan,0.1,0.3,0.1
+G5,Nafsu makan menurun,0.1,0.7,0.1
+G6,Terlalu peka,0.7,0.1,0.1
+G7,Merasa putus asa / tidak punya harapan,0.1,0.1,0.7
+G8,Merasa takut,0.4,0.7,0.1
+G9,Tremor (gemetar tidak terkendali),0.1,0.1,0.1
+G10,Kurang bersemangat,0.1,0.8,0.1
+G11,Sering emosi / emosi tidak terkontrol,0.1,0.8,0.1
+G12,Sakit kepala,0.8,0.3,0.1
+G13,Mudah menangis,0.8,0.1,0.1
+G14,Merasa cemas,0.5,0.1,0.1
+G15,Suasana hati mudah berubah (moodyan),0.6,0.1,0.1
+G16,Pendiam (Introvert),0.1,0.1,0.8
+G17,Maag,0.1,0.3,0.8
+G18,Sering ketegangan otot di bagian tertentu,0.1,0.9,0.1
+G19,Prestasi menurun,0.1,0.3,0.1
+G20,Mudah lelah/capek,0.3,0.4,0.6
+G21,Sering lupa,0.4,0.6,0.8
+G22,Tidak fokus (sulit konsentrasi),0.1,0.4,0.8
+G23,Sulit tidur/ lebih banyak begadang,0.3,0.5,0.9
+G24,Hilang rasa percaya diri,0.1,0.3,0.1
+G25,Jantung berdebar semakin meningkat,0.1,0.3,0.1
+G26,Kehilangan rasa humor,0.1,0.1,0.5
+G27,Mudah tersinggung/sensitif,0.1,0.1,0.5
+G28,Pikiran kacau,0.1,0.1,0.8
+G29,Sering menyendiri,0.1,0.3,0.1
+G30,Alergi/gatal-gatal pada kulit,0.1,0.1,0.5
