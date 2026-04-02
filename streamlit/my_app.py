@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Membaca dataset dari file CSV
-df = pd.read_csv('Dataset_Stres - dataset.csv')
+df = pd.read_csv('dataset_stres.csv')
 
 # Hapus kolom Deskripsi Gejala
 df.drop('Deskripsi Gejala', axis=1, inplace=True)
